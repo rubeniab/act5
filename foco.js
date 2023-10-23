@@ -25,6 +25,9 @@ function foco(){
             document.body.classList.remove('luz');
             document.body.classList.add('oscuridad');
         }
+
+        
     });
+    document.body.appendChild(img);
 }
 
